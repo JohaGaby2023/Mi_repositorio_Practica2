@@ -13,4 +13,7 @@
 #Division
 5/2
 
+#Raiz Cuadrada
+sqrt(25)
+
 
